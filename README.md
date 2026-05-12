@@ -1,25 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio Website
 
-## Getting Started
+This is a small portfolio project built while learning modern web development using Next.js.
 
-First, run the development server:
+The website includes mini projects, experiments, and UI practice work as part of my learning journey.
+
+## 🚀 Live Demo
+
+https://my-portfolio-rho-orcin-pmlik4vpya.vercel.app/
+
+## 🛠️ Built With
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+## 📂 Run Locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📖 Note
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
+This project was created mainly for learning, experimenting, and improving frontend development skills.
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
